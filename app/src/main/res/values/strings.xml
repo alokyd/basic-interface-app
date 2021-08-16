@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">interface</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="price">price</string>
+    <string name="total_price">total price</string>
+    <string name="order">order</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="add_something_to_your_tea">Add something to your tea</string>
+    <string name="extra_milk">Extra milk</string>
+    <string name="order_summary">order summary</string>
+    <string name="summary">summary</string>
+    <string name="extracookies">extraCookies</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="_2">2</string>
+</resources>
